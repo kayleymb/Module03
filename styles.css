@@ -53,6 +53,7 @@ body {
     font-size: 40pt;
     float: left;
     overflow: hidden;
+    margin-left: 20px
   }
   h2 {
     font-style: italic;
