@@ -13,7 +13,7 @@ body {
   }
   section {
     background-color: lightyellow; 
-    border: 2px rgb(0, 167, 255); 
+    border: 2px solid rgb(0, 167, 255); 
     padding: 10px; 
     border-left: 30px solid rgb(0, 167, 255);
     clear: both;
@@ -35,6 +35,7 @@ body {
     border-right: 20px solid rgb(255, 210, 110);
     float: right;
     overflow: hidden;
+    padding: 10px;
   }
   aside::first-line {
     font-weight: bold;
